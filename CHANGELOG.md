@@ -1,5 +1,13 @@
 # ChangeLog
 
+### v5.0.0-alpha.0
+
+29-12-2021
+
+Dependencies
+
+- Update react-docgen to 6.0.0-alpha.0
+
 ### v4.2.1
 
 13-10-2020

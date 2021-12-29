@@ -1,6 +1,6 @@
 {
-  "version": "4.2.1",
-  "name": "babel-plugin-react-docgen",
+  "version": "5.0.0-alpha.0",
+  "name": "@ianvs/babel-plugin-react-docgen",
   "description": "Babel plugin to add react-docgen info into your code",
   "repository": "https://github.com/storybooks/babel-plugin-react-docgen",
   "author": "Madushan Nishantha <j.l.madushan@gmail.com>",
