@@ -1,5 +1,13 @@
 # ChangeLog
 
+### v5.0.0-alpha.1
+
+30-01-2022
+
+New Features:
+
+- Use `fsImporter` as the importer when using `react-docgen`
+
 ### v5.0.0-alpha.0
 
 29-12-2021

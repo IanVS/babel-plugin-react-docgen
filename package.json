@@ -1,5 +1,5 @@
 {
-  "version": "5.0.0-alpha.0",
+  "version": "5.0.0-alpha.1",
   "name": "@ianvs/babel-plugin-react-docgen",
   "description": "Babel plugin to add react-docgen info into your code",
   "repository": "https://github.com/storybooks/babel-plugin-react-docgen",
